@@ -12,13 +12,13 @@ Dynamic Player shows the music or video playing in any app — Apple Music, Spot
 
 1. Download **Dynamic-Player.dmg** and open it.
 2. Drag **Dynamic Player** to **Applications**.
-3. Open it. It lives in the menu bar (the waveform icon) — there's no Dock icon.
+3. Open it. It lives in the menu bar (the wave icon) — there's no Dock icon.
 
 It's signed with Developer ID and notarized by Apple, so macOS only asks you to confirm the first time you open it.
 
 ## What it does
 
-- **The island** — artwork, title, progress and the play, previous and next buttons, around the notch. Click or drag the progress bar to jump anywhere in the song. On Macs without a notch, at the top center of the screen.
+- **The island** — artwork, title, progress and the play, previous and next buttons, around the notch. Click, drag or flick the progress bar to jump anywhere in the song. On Macs without a notch, at the top center of the screen.
 - **Floating window** — detach it, then let go or flick it, and it moves to the nearest corner of the screen. Turn magnetism off to leave it anywhere. It remembers where you left it on each display.
 - **Sound output** — a button in the corner sends the sound to your AirPods, speakers or TV, and opens Sound settings for AirPlay.
 - **Full screen** — a big always-on view for your desk, with the effect across the whole screen. It keeps the display awake only while it's open, and by default only when your Mac is plugged in.
@@ -38,7 +38,7 @@ Dynamic Player doesn't collect anything. Artwork and track details stay in memor
 
 New versions install by themselves, while you're not using the app. They're signed, and Dynamic Player checks the signature before installing anything. You can turn this off in Settings › General.
 
-Have version 1.0? Click the menu bar icon and choose **Update to Version 1.1…** once. After that, updates are automatic.
+Have version 1.0? Click the menu bar icon and update from there once. After that, updates are automatic.
 
 ## Acknowledgements
 
