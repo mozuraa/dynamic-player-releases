@@ -2,7 +2,7 @@
 
 What's playing on your Mac, right in the notch.
 
-Dynamic Player shows the music or video playing in any app — Apple Music, Spotify, YouTube in your browser, podcasts — as a small black island around the notch. Point at it and the controls appear. Pull it out into a floating window that snaps to the edges and corners of the screen, or let it grow to full screen, with a wave, bars, dots or neon that move with the music.
+Dynamic Player shows the music or video playing in any app — Apple Music, Spotify, YouTube in your browser, podcasts — as a small black island around the notch. Point at it and the controls appear. Pull it out into a floating window that settles in a corner of the screen, or let it grow to full screen, with a wave, bars, dots or neon that move with the music.
 
 **Free. No account. No tracking.**
 
@@ -18,15 +18,16 @@ It's signed with Developer ID and notarized by Apple, so macOS only asks you to 
 
 ## What it does
 
-- **The island** — artwork, title, progress and the play, previous and next buttons, around the notch. On Macs without a notch, at the top center of the screen.
-- **Floating window** — detach it, then drop or flick it toward an edge or a corner and it snaps into place. It remembers where you left it on each display.
+- **The island** — artwork, title, progress and the play, previous and next buttons, around the notch. Click or drag the progress bar to jump anywhere in the song. On Macs without a notch, at the top center of the screen.
+- **Floating window** — detach it, then let go or flick it, and it moves to the nearest corner of the screen. Turn magnetism off to leave it anywhere. It remembers where you left it on each display.
+- **Sound output** — a button in the corner sends the sound to your AirPods, speakers or TV, and opens Sound settings for AirPlay.
 - **Full screen** — a big always-on view for your desk, with the effect across the whole screen. It keeps the display awake only while it's open, and by default only when your Mac is plugged in.
 - **Effects** — a wave, bars, dots or neon, moving with the actual sound, in eight color styles.
 - **14 languages**, including Arabic and Urdu (right to left).
 
 ## Privacy
 
-Dynamic Player doesn't collect anything. Artwork and track details stay in memory on your Mac. The sound for the effects is analyzed on your Mac and never recorded or sent anywhere. The only time the app goes online is to check for updates: once a day it downloads a small file from this page with the latest version number. You can turn that off in Settings.
+Dynamic Player doesn't collect anything. Artwork and track details stay in memory on your Mac. The sound for the effects is analyzed on your Mac and never recorded or sent anywhere. The only time the app goes online is for updates: once a day it downloads a small file from this page with the latest version number and, when there's a new version, the update itself. You can turn that off in Settings.
 
 ## Permissions
 
@@ -35,7 +36,9 @@ Dynamic Player doesn't collect anything. Artwork and track details stay in memor
 
 ## Updates
 
-New versions arrive inside the app. They're signed, and Dynamic Player checks the signature before installing anything.
+New versions install by themselves, while you're not using the app. They're signed, and Dynamic Player checks the signature before installing anything. You can turn this off in Settings › General.
+
+Have version 1.0? Click the menu bar icon and choose **Update to Version 1.1…** once. After that, updates are automatic.
 
 ## Acknowledgements
 
